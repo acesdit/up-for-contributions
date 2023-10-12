@@ -11,7 +11,9 @@ By: [Shreedhar Urawane](google.com)
 
 A full-stack ecommerce web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It is designed to provide a seamless online shopping experience for both customers and administrators. With UrbanCart, you can easily create and manage your online store, list products, handle customer orders, and more.
 
-[https://github.com/Shreedhar03/UrbanCart](https://github.com/Shreedhar03/UrbanCart)
+[https://github.com/Shreedhar03/UrbanCart](https://github.com/Shreedhar03/UrbanCart) 
+
+---
 
 ### NoteAttendance
 By: [Shreedhar Urawane](google.com)
@@ -21,7 +23,10 @@ By: [Shreedhar Urawane](google.com)
 
 A full-stack ecommerce web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It is designed to provide a seamless online shopping experience for both customers and administrators. With UrbanCart, you can easily create and manage your online store, list products, handle customer orders, and more.
 
-[https://github.com/Shreedhar03/UrbanCart](https://github.com/Shreedhar03/UrbanCart)
+[https://github.com/Shreedhar03/UrbanCart](https://github.com/Shreedhar03/UrbanCart) 
+
+---
+
 ### NoteAttendance
 By: [Shreedhar Urawane](google.com)
 
@@ -30,7 +35,7 @@ By: [Shreedhar Urawane](google.com)
 
 A full-stack ecommerce web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It is designed to provide a seamless online shopping experience for both customers and administrators. With UrbanCart, you can easily create and manage your online store, list products, handle customer orders, and more.
 
-[https://github.com/Shreedhar03/UrbanCart](https://github.com/Shreedhar03/UrbanCart)
+[https://github.com/Shreedhar03/UrbanCart](https://github.com/Shreedhar03/UrbanCart) 
 
 \
 _A project by Association of Computer Engineering Students, [DIT Pimpri](https://engg.dypvp.edu.in/)_
